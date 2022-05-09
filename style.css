@@ -24,28 +24,24 @@ body {
     max-width: 100%;
     /* min-height: 100vh; */
     top: 0;
-    position: absolute;
     background-color: yellowgreen;
-    height: 4rem;
+   padding: 7px;
     /* z-index: 120; */
 }
 
 
 
 .container1 img {
-    width: 70px;
-    max-width: 100%;
+    width: 150px;
     margin: 5px;
     margin: auto;
     /* position: absolute; */
-    height: 50px;
     display: block;
 }
 
 
 .content1 {
     position: relative;
-    margin-top: 1.7rem;
     box-sizing: border-box;
 }
 
